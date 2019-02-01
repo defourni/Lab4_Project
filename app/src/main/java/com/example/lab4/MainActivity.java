@@ -11,12 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public abstract class Shape {
-        private int x;
-        private int y;
-
-
-
-    }
-
 }
