@@ -10,4 +10,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public abstract class Shape {
+        private int x;
+        private int y;
+
+
+
+    }
+
 }
